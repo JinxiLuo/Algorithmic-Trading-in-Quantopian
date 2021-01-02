@@ -1,4 +1,4 @@
-# Algorithmic-Trading-in-Quantopian
+# Algorithmic-Trading-with-Python
 
 **Themes**: Algorithmic Trading, Choosing Alpha Factors and Data Analysis
 
